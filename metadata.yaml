@@ -1,0 +1,26 @@
+_repo: Serbia--A-Sketch_35231
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35231-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Reed, Helen Leah
+    deathdate: 1926
+    gutenberg_agent_id: '37330'
+    url: http://www.gutenberg.org/2009/agents/37330
+description: ''
+gutenberg_issued: '2011-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35231'
+  lccn: '17000059'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Serbia'
+- !lcc 'DR'
+title: 'Serbia: A Sketch'
+url: http://www.gutenberg.org/ebooks/35231
